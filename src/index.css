@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.tablebtn:hover{
+  cursor: pointer;
+  background-color: gainsboro;
+  /* border-radius: 10px; */
+  
+}
